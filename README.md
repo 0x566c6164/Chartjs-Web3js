@@ -1,5 +1,6 @@
-# snow-chart
-A chart to represent the Ethereum value in the Snowdividends.com contract.</br>
-This is only the front-end side of the project, simply call the **pushData(contract.balance)** function to insert data into the chart.
+# Web3 balance chart
+A chart to represent the Ethereum value in any given wallet address<br/>
+
 ## Dependencies
-ChartJS Library
+ChartJS
+Web3js
